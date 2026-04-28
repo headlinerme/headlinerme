@@ -9,7 +9,7 @@ aiogram · aiohttp · async/await
 
 ### Коммерческий опыт
 
-- **Algorithm.ai** (2025) — lead developer системы AI-квалификации
+- **Algorithm.ai** (2025) — ведущий разработчик системы AI-квалификации
   лидов для B2B. Production-система с интеграциями amoCRM, Bitrix24,
   Yclients, Telegram, WhatsApp.
 - **Ponches** (2025 — н.в.) — разработчик marketplace-автоматизации
